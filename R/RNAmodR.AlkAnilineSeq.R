@@ -10,9 +10,11 @@
 #' @seealso Further details are described in the man pages of the 
 #' \code{\link[RNAmodR:Modifier-class]{Modifier}} object and the vignettes.
 #'
-#' @docType package
 #' @name RNAmodR.AlkAnilineSeq
 NULL
+
+#' @keywords internal
+"_PACKAGE"
 
 #' @import methods
 #' @import RNAmodR
